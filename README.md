@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi all!
+
+Aishu here, I'm learning python today
